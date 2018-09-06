@@ -26,9 +26,6 @@ SwipeRecyclerView
 CardView
 > android.support.v7.widget.CardView
 
-Fragment
-> import android.support.v4.app.Fragment
-
 ## 数据接口
 - api
 
